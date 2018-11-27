@@ -7,7 +7,7 @@ project I suggest a neighborhood to a user by asking them five multiple choice q
 and how much they can afford to pay for housing. I chose Melbourne, the capital and
 most populous city of the Australian state of Victoria, and the second-most populous city
 in Australia and Oceania, for my project. So this project help people who are looking
-for house in Melbourne find the right neighborhood.
+for house in Melbourne find the right neighborhood. This project is part of IBM data science professional certificate.
 
 # Data
 
